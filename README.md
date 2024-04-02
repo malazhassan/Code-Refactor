@@ -25,7 +25,7 @@ The source code is available on GitHub:
 
 #### GitHub Repository
 
-https://github.com/malazhassan/CodeRefactor
+(https://github.com/malazhassan/Code-Refactor)
 
 ## Getting Started
 To run this project locally, follow these steps:
