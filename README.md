@@ -19,7 +19,7 @@ Commented CSS: The CSS file has been properly commented to provide clarity and u
 ## Deployment
 The website has been successfully deployed and is accessible at the following URL:
 
-malazhassan.github.io/CodeRefactor
+(malazhassan.github.io/Code-Refactor/)
 
 The source code is available on GitHub:
 
