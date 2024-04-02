@@ -1,23 +1,23 @@
 * {
-    box-sizing: border-box; /*Accounts for any border and padding values that are specified in the whole code's width and length*/
+    box-sizing: border-box; 
     padding: 0;
     margin: 0;
 }
 
 body {
     background-color: #d9dcd6;
-} /*Makes Main Page have a white background*/
+}
 
 header {
-    padding: 20px; /*Used to position the elememts in the header by creating a space of 20 pixels all around in the border*/
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /*Choosing the fonts for the heading title of the page*/
+    padding: 20px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
     background-color: #2a607c;
-    color: #ffffff; /*Header elements possess a white colour*/
+    color: #ffffff; /
 }
 
 .header h1 {
-    display: inline-block; /*Displays elements within the h1 tag of the header adjacently*/
-    font-size: 48px; /*Specifies the font size of the element*/
+    display: inline-block;
+    font-size: 48px; 
 }
 
 .header h1 .seo {
@@ -25,15 +25,15 @@ header {
 }
 
 nav{
-    padding-top: 15px; /*Specifically creates a 15 pixel space from the top for all nav elements inside the border*/
-    margin-right: 20px;/*Creates space of 20 pixels to the right of all nav elements regardless of borders*/
-    float: right; /*Makes elements float to the right of the container*/
+    padding-top: 15px; 
+    margin-right: 20px;
+    float: right; 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
 nav ul {
-    list-style-type: none; /*Removes list marker*/
+    list-style-type: none;
 }
 
 nav ul li {
@@ -43,7 +43,7 @@ nav ul li {
 
 a {
     color: #ffffff;
-    text-decoration: none; /*Removes automatic hyperlink underlining from elements containing links*/
+    text-decoration: none; 
 }
 
 p {
@@ -51,12 +51,12 @@ p {
 }
 
 .hero {
-    height: 800px; /*Height of Image*/
-    width: 100%; /*Width of Image*/
-    margin-bottom: 25px; /*Creates a 25 pixel space between the bottom of the container for elements regardless of broders*/
-    background-image: url("assets/images/MEETING.jpg"); /*Utilises image for background of specific class*/
-    background-size: cover; /*Specifies for background to be fully covered*/
-    background-position: center; /*Indicates the background image should be centered*/
+    height: 800px; 
+    width: 100%;
+    margin-bottom: 25px; 
+    background-image: url("assets/images/MEETING.jpg"); 
+    background-size: cover; 
+    background-position: center; 
 }
 
 .float-left {
